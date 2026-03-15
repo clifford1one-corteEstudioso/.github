@@ -39,9 +39,3 @@ Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
     src="https://github-readme-stats.vercel.app/api/pin/?username=clifford1one-corteEstudioso&repo=ay-administracion-financiera&theme=transparent&hide_border=true"
     alt="Ayudantía Administración Financiera">
 </a>
-## Contenido
-
-* apuntes de clases
-* resúmenes de lecturas
-* diagramas y esquemas
-* ejercicios o ejemplos de código
