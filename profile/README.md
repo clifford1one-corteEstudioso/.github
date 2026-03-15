@@ -1,12 +1,26 @@
 # Notes
 
-Repositorio donde guardo apuntes, resúmenes y materiales de clases, organizados por ramo.
+Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
 
 ## Ramos
 
-* [Cognición](https://github.com/tu-org/cognicion)
-* [Programación](https://github.com/tu-org/programacion)
-* [Diseño](https://github.com/tu-org/diseno)
+<a href="https://github.com/clifford1one-corteEstudioso/dis8925-2026-1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=cognicion&theme=transparent&hide_border=true"
+    alt="Formulación de Proyectos">
+</a>
+
+<a href="https://github.com/clifford1one-corteEstudioso/dis8940-2026-1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=programacion&theme=transparent&hide_border=true"
+    alt="Pedagogías y Diseño">
+</a>
+
+<a href="https://github.com/clifford1one-corteEstudioso/dis8970-2026-1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=diseno&theme=transparent&hide_border=true"
+    alt="Diseño y Neurociencia">
+</a>
 
 ## Contenido
 
@@ -14,7 +28,3 @@ Repositorio donde guardo apuntes, resúmenes y materiales de clases, organizados
 * resúmenes de lecturas
 * diagramas y esquemas
 * ejercicios o ejemplos de código
-
-## Actividad
-
-![Gráfico de contribuciones del repositorio](https://raw.githubusercontent.com/tu-org/snake/output/github-contribution-grid-snake.svg)
