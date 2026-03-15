@@ -4,7 +4,7 @@ Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
 
 ## Ramos
 
-<a href="https://github.com/clifford1one-corteEstudioso/dis8970-2026-1">
+<a href="https://github.com/clifford1one-corteEstudioso/dis8vt1-2026-1">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=clifford1one-corteEstudioso&repo=dis8vt1-2026-1&theme=transparent&hide_border=true"
     alt="Seminario de Título">
