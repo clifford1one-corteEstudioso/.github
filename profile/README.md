@@ -10,7 +10,7 @@ Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
     alt="Seminario de Título">
 </a>
 
-<a href="https://github.com/clifford1one-corteEstudioso/dis8vt1-2026-1">
+<a href="https://github.com/clifford1one-corteEstudioso/dis8925-2026-1">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=clifford1one-corteEstudioso&repo=dis8925-2026-1&theme=transparent&hide_border=true" 
     alt="Formulación de Proyectos">
