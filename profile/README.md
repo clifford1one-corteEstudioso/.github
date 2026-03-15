@@ -1,27 +1,35 @@
-# clifford1one-corteEstudioso
+# Notes
 
-Welcome to our projects.
+Repositorio de apuntes, resúmenes y materiales de clases.
+La idea es mantener todo ordenado por ramo para poder volver a los contenidos fácilmente.
 
-## Featured Repositories
+## Ramos
 
-| Project | Description |
-|--------|-------------|
-| [project-1](https://github.com/santiago/project-1) | Main platform |
-| [project-2](https://github.com/santiago/project-2) | Experimental tools |
-| [project-3](https://github.com/santiago/project-3) | UI components |
+<a href=["formulación de proyectos](https://github.com/clifford1one-corteEstudioso/dis8925-2026-1)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=cognicion&theme=transparent&hide_border=true">
+</a>
 
----
+<a href="https://github.com/tu-org/programacion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=programacion&theme=transparent&hide_border=true">
+</a>
 
-## Activity
+<a href="https://github.com/tu-org/diseno">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=diseno&theme=transparent&hide_border=true">
+</a>
+
+## Contenido
+
+* apuntes de clases
+* resúmenes de lecturas
+* diagramas o esquemas
+* ejercicios o ejemplos de código
+
+## Actividad
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santiago&show_icons=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=tu-org&show_icons=true&theme=transparent&hide_border=true">
 </p>
 
----
-
-## Contribution Activity (Space-Invaders Style)
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/abdurrahmanfadhil/pace-invaders/master/pacman.svg">
+<img src="https://raw.githubusercontent.com/tu-org/snake/output/github-contribution-grid-snake.svg">
 </p>
