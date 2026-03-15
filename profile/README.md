@@ -5,7 +5,7 @@ La idea es mantener todo ordenado por ramo para poder volver a los contenidos f√
 
 ## Ramos
 
-<a href=["formulaci√≥n de proyectos](https://github.com/clifford1one-corteEstudioso/dis8925-2026-1)">
+<a href="https://github.com/clifford1one-corteEstudioso/dis8925-2026-1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-org&repo=cognicion&theme=transparent&hide_border=true">
 </a>
 
