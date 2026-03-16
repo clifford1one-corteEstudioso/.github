@@ -1,8 +1,10 @@
 # Notes
 
-Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
+Aquí todos mis apuntes.
 
-## Ramos
+## 2026
+
+### asignaturas
 
 <a href="https://github.com/clifford1one-corteEstudioso/dis8vt1-2026-1">
   <img
@@ -28,11 +30,15 @@ Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
     alt="Diseño y Neurociencia">
 </a>
 
+### Práctica Electiva
+
 <a href="https://github.com/clifford1one-corteEstudioso/fad9100-2026-1">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=clifford1one-corteEstudioso&repo=fad9100-2026-1&theme=transparent&hide_border=true"
     alt="Práctica Electiva Laboratorio de Interacción Digital">
 </a>
+
+### Ayudantías
 
 <a href="https://github.com/clifford1one-corteEstudioso/ay-dis09214-2026-1">
   <img
