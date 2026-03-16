@@ -28,6 +28,12 @@ Repositorio donde guardo apuntes y materiales de clases organizados por ramo.
     alt="Diseño y Neurociencia">
 </a>
 
+<a href="https://github.com/clifford1one-corteEstudioso/fad9100-2026-1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=clifford1one-corteEstudioso&repo=fad9100-2026-1&theme=transparent&hide_border=true"
+    alt="Práctica Electiva Laboratorio de Interacción Digital">
+</a>
+
 <a href="https://github.com/clifford1one-corteEstudioso/ay-dis09214-2026-1">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=clifford1one-corteEstudioso&repo=ay-dis09214-2026-1&theme=transparent&hide_border=true"
