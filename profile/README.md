@@ -1,10 +1,6 @@
-# Notes
+# apuntes 2026
 
-Aquí todos mis apuntes.
-
-## 2026
-
-### asignaturas
+## asignaturas
 
 <a href="https://github.com/clifford1one-corteEstudioso/dis8vt1-2026-1">
   <img
@@ -30,7 +26,7 @@ Aquí todos mis apuntes.
     alt="Diseño y Neurociencia">
 </a>
 
-### Práctica Electiva
+## práctica electiva
 
 <a href="https://github.com/clifford1one-corteEstudioso/fad9100-2026-1">
   <img
@@ -38,7 +34,7 @@ Aquí todos mis apuntes.
     alt="Práctica Electiva Laboratorio de Interacción Digital">
 </a>
 
-### Ayudantías
+## ayudantías
 
 <a href="https://github.com/clifford1one-corteEstudioso/ay-dis09214-2026-1">
   <img
