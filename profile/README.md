@@ -9,9 +9,6 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![semester](https://img.shields.io/badge/semestre-2026--1-ff69b4?style=flat-square&labelColor=1a1a1a)](.)
-[![org](https://img.shields.io/badge/org-clifford1one--corteEstudioso-ff69b4?style=flat-square&labelColor=1a1a1a)](https://github.com/clifford1one-corteEstudioso)
-[![status](https://img.shields.io/badge/estado-activo-ff69b4?style=flat-square&labelColor=1a1a1a)](.)
 
 </div>
 
@@ -94,8 +91,6 @@
   </tr>
 </table>
 
+
 ---
 
-<div align="center">
-  <sub>Escuela de Diseño · 2026-1</sub>
-</div>
